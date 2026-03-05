@@ -23,7 +23,7 @@ JCDSBSDAM-31
     - Customer sering melakukan pembatalan registrasi kamar sebelumnya
     - Jumlah permintaan khusus yang dibuat saat memesan kamar sedikit
     - Tipe customer Transient
-    - 
+
 3. Kemungkinan registrasi kamar dibatalkan akan lebih kecil jika:
     - Customer tidak melakukan pembayaran deposit yang non-refundable
     - Customer belum pernah melakukan pembatalan registrasi kamar sebelumnya
