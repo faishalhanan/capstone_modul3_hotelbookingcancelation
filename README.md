@@ -1,6 +1,6 @@
 # Model Prediksi Pembatalan Registrasi Kamar Hotel
 Faishal Hananta Aji
-JCDSBSDAM-31
+Purwadhika JCDSBSDAM-31
 
 # Stakeholder
 - Bidang administrasi hotel
